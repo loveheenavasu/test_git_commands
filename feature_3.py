@@ -1,5 +1,0 @@
-"""Hi feature 3."""
-"""Hi feature 3."""
-"""Hi feature 3."""
-"""Hi feature 3."""
-"""Hi feature 3."""
