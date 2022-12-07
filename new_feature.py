@@ -1,1 +1,1 @@
-"""This is a new feature in this project."""
+"""This is a new eature in this project."""
